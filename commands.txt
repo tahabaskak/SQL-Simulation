@@ -1,0 +1,1 @@
+SELECT LastName,City,FirstName WHERE SocialSecurityNumber>869999998 AND SocialSecurityNumber<871368918
